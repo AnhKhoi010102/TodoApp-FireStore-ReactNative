@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871267491098",
+    "project_id": "ex3todoapp",
+    "storage_bucket": "ex3todoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871267491098:android:8fd402f1d2afa0faa0a0a3",
+        "android_client_info": {
+          "package_name": "com.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rh4h0rlmiU7kAJYqQlJr5uXssrqY2hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
